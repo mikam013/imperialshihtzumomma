@@ -9,7 +9,6 @@ FACEBOOK = "https://www.facebook.com/profile.php?id=100063466035252"
 YELP = "https://www.yelp.com/biz/imperial-shih-tzu-momma-santa-maria"
 
 NAV = [
-    ("index.html", "Home"),
     ("puppies.html", "Puppies"),
     ("our-dogs.html", "Our Dogs"),
     ("how-it-works.html", "How It Works"),
